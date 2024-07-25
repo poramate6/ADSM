@@ -1,0 +1,9 @@
+Package: ADSM
+Type: Package
+Title: Animal Disease Spread Model
+Version: 0.1.0
+Author: Poramate Nakkirt
+Maintainer: Poramate Nakkirt <pnakk@iastate.edu>
+Description: This is R package for simulating animal disease spread. 
+Encoding: UTF-8
+LazyData: true
